@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DIS_farmacia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_image_empresa">descripcion test</string>
+    <string name="titulo_nosotros">Sobre Nosotros</string>
+    <string name="descripcion_nosotros">Inkafarma es una línea de boticas que ofrece una gran variedad de productos farmacéuticos, perfumería y tocador, considerados de buena calidad, y que opera todos los días del año. Actualmente, Inkafarma lidera el mercado farmacéutico debido a su gran cobertura a nivel nacional y su calidad en el servicio, gracias a la obsesión por el análisis, pasión por los resultados, liderazgo inspirador y amor por las personas, que presenta cada miembro de esta organización.\n\n
+        Su propósito como modelo de negocio es llevar con calidez, optimismo, salud, bienestar y ahorro a todas las comunidades del Perú. En este sentido, la empresa proyecta cambiar la historia de la salud en las comunidades donde operan, a través de la mejor calidad, el mejor precio y la mejor gente.\n\n
+        En Inkafarma el principal valor es el amor por las personas. Cada colaborador entiende que debe atender al cliente como si fuese su propia familia. Otro rasgo que caracteriza al trabajador de esta empresa, es el liderazgo inspirador y la pasión por los resultados, que los invita a cuestionar y perfeccionar su trabajo constantemente.
+    </string>
+</resources>
